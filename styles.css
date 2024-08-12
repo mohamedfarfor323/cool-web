@@ -119,7 +119,7 @@ background-color: #090b13;
 .hero {
   position: relative;
   height: 100vh;
-  background: url("../pics/moon.jpg") no-repeat center center/cover fixed;
+  background: url("moon.jpg") no-repeat center center/cover fixed;
   color: #fff;
 overflow: hidden;
 }
@@ -367,14 +367,14 @@ a {
   max-height: calc(50% - 2.7px);
 }
 .g1_img1 {
-  background-image: url("../pics/4.jpg");
+  background-image: url("4.jpg");
   background-repeat: no-repeat;
   /* background-position: center; */
   background-size: cover;
   position: relative;
 }
 .g1_img3 {
-  background-image: url("../pics/5.jpg");
+  background-image: url("5.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -391,25 +391,25 @@ a {
   height: 100%;
 }
 .g1_sec1 .sec1_img1 {
-  background-image: url("../pics/5.jpg");
+  background-image: url("5.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .g1_sec1 .sec1_img2 {
-  background-image: url("../pics/6.jpg");
+  background-image: url("6.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .g1_sec2 .sec1_img1 {
-  background-image: url("../pics/6.jpg");
+  background-image: url("6.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .g1_sec2 .sec1_img2 {
-  background-image: url("../pics/5.jpg");
+  background-image: url("5.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -417,7 +417,7 @@ a {
 .g2 .g2_img2 {
   width: 100%;
   height: 100%;
-  background-image: url("../pics/5.jpg");
+  background-image: url("5.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -621,7 +621,7 @@ color: transparent;
   
 }
 .slide_bg{
-  background: url('../pics/1.jpg');
+  background: url('1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: calc(70%);
